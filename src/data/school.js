@@ -1,13 +1,13 @@
 // Replace this sample content with each school's approved details.
 const demoSchool = {
-  name: 'Greenfield Public School',
-  shortName: 'Greenfield',
+  name: 'Gentlemindhub School',
+  shortName: 'Gentlemindhub',
   tagline: 'Learn. Lead. Thrive.',
   location: 'Sector 45, Gurugram, Haryana',
-  address: 'Greenfield Public School, Sector 45, Gurugram, Haryana 122003',
+  address: 'Gentlemindhub School, Sector 45, Gurugram, Haryana 122003',
   phone: '+91 98765 43210',
   whatsapp: '919876543210',
-  email: 'hello@greenfieldschool.example',
+  email: 'hello@gentlemindhubschool.example',
   hours: 'Monday – Saturday · 8:00 AM – 3:00 PM',
   established: '2008',
   mapUrl: 'https://maps.google.com/?q=Sector+45+Gurugram',

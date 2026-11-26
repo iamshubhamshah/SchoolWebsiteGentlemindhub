@@ -35,7 +35,7 @@ The current sample content is fictional demonstration content. Replace it with e
 
 ## Multi-school subdomains: `schoolname.gentlemindhub.com`
 
-This code is a reusable frontend template. It reads the first hostname label and formats it as the displayed school name as a basic demo fallback. **It does not yet provide a school database, separate school content by tenant, or an admin panel.** For real client onboarding, replace `getSchoolConfig()` in `src/data/school.js` with a lookup from a school registry/API keyed by the hostname slug (for example `greenfield`), and return that school's approved configuration.
+This code is a reusable frontend template. It reads the first hostname label and formats it as the displayed school name as a basic demo fallback. **It does not yet provide a school database, separate school content by tenant, or an admin panel.** For real client onboarding, replace `getSchoolConfig()` in `src/data/school.js` with a lookup from a school registry/API keyed by the hostname slug (for example `gentlemindhub`), and return that school's approved configuration.
 
 To serve many subdomains from one deployment:
 1. Configure wildcard DNS for `*.gentlemindhub.com` to point to the hosting provider.
